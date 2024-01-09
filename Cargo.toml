@@ -1,5 +1,5 @@
 [package]
-name = "flappy_bird_rust"
+name = "roguelike_tutorial"
 version = "0.1.0"
 authors = ["Diego Kennedy"]
 edition = "2021"

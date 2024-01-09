@@ -576,13 +576,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "flappy_bird_rust"
-version = "0.1.0"
-dependencies = [
- "rltk",
-]
-
-[[package]]
 name = "flate2"
 version = "1.0.28"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1363,6 +1356,13 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "30587bc9361fc5600650d17ad6b9a91bb6a290f9d06a434dc48198d22ead7543"
 dependencies = [
  "bracket-lib",
+]
+
+[[package]]
+name = "roguelike_tutorial"
+version = "0.1.0"
+dependencies = [
+ "rltk",
 ]
 
 [[package]]
